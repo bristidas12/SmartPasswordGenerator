@@ -13,3 +13,13 @@ A Java-based Smart Password Generator that takes user details like Name, PAN Num
 - Random Class
 - String Handling
 - Conditional Statements
+
+ Output :
+Enter Your Name: Ram
+Enter PAN Number: 12345
+Enter Date of Birth (DDMMYYYY): 18052004
+
+Generated Password: RA123418!19
+Password Strength: MEDIUM
+
+Generate Again? (y/n):
