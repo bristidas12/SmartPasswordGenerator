@@ -19,7 +19,7 @@ Enter Your Name: Ram
 Enter PAN Number: 12345
 Enter Date of Birth (DDMMYYYY): 18052004
 
-Generated Password: RA123418!19
+Generated Password: RA123418!27
 Password Strength: MEDIUM
 
 Generate Again? (y/n):
